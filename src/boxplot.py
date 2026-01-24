@@ -28,6 +28,6 @@ plt.ylabel("Value")
 plt.xlabel("MedHouseValue")
 
 # Save the plot
-plt.savefig("figs/MedHouseVal.png", dpi=300, bbox_inches="tight")
+plt.savefig("figs/boxplot.png", dpi=300, bbox_inches="tight")
 plt.close()
 
